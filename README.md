@@ -9,7 +9,7 @@ En este Launcher podras usar rapidamente el juego usando todos sus parametros al
 7) Elimina todo el contenido de Diablo II del REGEDIT de Windows
 8) Repara el error de pantalla negra al jugar
 
-https://latinbattle.com/wp-content/uploads/2024/05/Screenshot_1.png.webp
+https://latinbattle.com/wp-content/uploads/2024/05/Screenshot_1.png.webp *********
 https://latinbattle.com/wp-content/uploads/2024/05/Screenshot_2.png.webp
 
 
