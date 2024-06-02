@@ -14,5 +14,3 @@ El Launcher no tiene actualizaciones ni requiere internet, solo requiere Netfram
 
 Espero que les haya gustado y puedan aprender algo mas.
 
-![Image](https://github.com/users/Azzlaer/projects/3/assets/29546057/7f7b6eb4-06b9-4f95-a4c8-6fe945d335e3)
-![Image](https://github.com/users/Azzlaer/projects/3/assets/29546057/ea3068fa-eccd-4f72-bada-ca00e15f465b)
